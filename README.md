@@ -6,6 +6,8 @@
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966"/>
 
+![](https://komarev.com/ghpvc/?username=shirhalimi)
+
 
 - 📫 How to reach me: **shirh60@gmail.com**
 
@@ -21,7 +23,7 @@
 <h3 align="left"> Github States:</h3>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shirhalimi&theme=black-ice)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shirhalimi&theme=dark-smoky)](https://git.io/streak-stats)
 
   <a href="https://github.com/shirhalimi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
